@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ae6o6ARH66bwJ9xgadjyb6UNXV05DoqzTpIMkrzW/aGv7AiP5PCtKjVEhDy9oGShv7XR9GxbRJ71xAScmlyj8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joseg\\OneDrive\\Desktop\\web_scraper\\web_scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joseg\\.nuget\\packages\\anglesharp\\0.13.0\\anglesharp.0.13.0.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\csvhelper\\15.0.3\\csvhelper.15.0.3.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\joseg\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
